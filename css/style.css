@@ -337,6 +337,84 @@ button.prev:hover,button.next:hover{
     background:url(../images/list-btn-s.png) no-repeat;
 }
 
+.imgbox{
+    position:relative;
+    width:100%;
+}
+.imgbox::after{
+    content:"";
+    display:block;
+    padding-bottom:110%;
+}
+.imginner{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+.imginner img{
+    width:inherit;
+    height:inherit;
+    object-fit: cover;
+}
+.btnbox span{
+   font-size:13px;
+   color:#fff;
+   padding: 0 20px;
+}
+span.best{
+   background-color:#ae7772;
+}
+span.today{
+   background-color: #bebaba;
+}
+span.new{
+   background-color:#272727; 
+}
+.pd-title{
+    font-size:16px;
+}
+.pd-desc, .pd-review{
+    font-size:14px;
+    color:#888;
+}
+.pd-price{
+    font-size:18px;
+}
+.pd-price del{
+    color:#888;
+    font-size:14px;
+}
+/** col-md-12 list */
+#main .col-md-12{
+    display:flex;
+    padding-bottom:30px;
+    border-bottom:1px solid #ddd;
+}
+#main .col-md-12 .imgbox{
+    width:300px;
+    margin-right: 30px;
+}
+
+#main .col-md-12 .pd-title{
+    font-size:20px;
+}
+#main .col-md-12 .pd-desc, .pd-review{
+    font-size:16px;
+    color:#888;
+}
+#main .col-md-12 .pd-price{
+    font-size:23px;
+}
+#main .col-md-12 .pd-price del{
+    color:#888;
+    font-size:16px;
+}
+
+
+
+
 @keyframes updown {
     0%{top:0;}
     25%{top:5px;}
