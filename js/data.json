@@ -1,0 +1,38 @@
+[
+  { 
+    "category" : "WIDE SLACKS", 
+    "origin" : "[MADE IN KOREA]",
+    "desc" : "4가지 컬러, 2가지 디자인, 3가지 기장으로 준비!",
+    "images" : ["001.jpg", "002.jpg", "003.jpg"]
+  },
+  { 
+    "category" : "NECK KNIT", 
+    "origin" : "[MADE IN KOREA]",
+    "desc" : "담백한 터치감과 탄탄한 꽈배기 패턴 <br>라운드& 브이넥 2종!",
+    "images" : ["004.jpg", "005.jpg", "006.jpg"]
+  },
+  { 
+    "category" : "V-NECK KNIT", 
+    "origin" : "[MADE IN CHINA]",
+    "desc" : "색감깡패, 꼼꼼하게 직접 검수, 싸다고 얏보지 말자!",
+    "images" : ["007.jpg", "008.jpg", "009.jpg"]
+  },
+  { 
+    "category" : "WIDE SLACKS", 
+    "origin" : "[MADE IN KOREA]",
+    "desc" : "4가지 컬러, 2가지 디자인, 3가지 기장으로 준비!",
+    "images" : ["010.jpg", "011.jpg", "012.jpg"]
+  },
+  { 
+    "category" : "WIDE SLACKS", 
+    "origin" : "[MADE IN KOREA]",
+    "desc" : "4가지 컬러, 2가지 디자인, 3가지 기장으로 준비!",
+    "images" : ["013.jpg", "014.jpg", "015.jpg"]
+  },
+  { 
+    "category" : "WIDE SLACKS", 
+    "origin" : "[MADE IN KOREA]",
+    "desc" : "4가지 컬러, 2가지 디자인, 3가지 기장으로 준비!",
+    "images" : ["016.jpg", "017.jpg", "018.jpg"]
+  }  
+]
