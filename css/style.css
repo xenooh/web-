@@ -412,9 +412,6 @@ span.new{
     font-size:16px;
 }
 
-
-
-
 @keyframes updown {
     0%{top:0;}
     25%{top:5px;}
@@ -480,9 +477,8 @@ span.new{
       position:relative;
       text-align:center;
     }
-
    .fadebox{
-      width: inherit;
+       width: inherit;
       height: inherit;
    }
    .slider div>img{
