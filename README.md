@@ -5,3 +5,5 @@ git add README.md
 git commit -m "첫 번째 커밋" 
 git remote add origin https://github.com/xenooh/web-.git
  git push -u origin main
+
+sub 저장 하고 main 추가저장 한 내용 임 
