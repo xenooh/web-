@@ -556,3 +556,11 @@ span.new{
   }
 
 }    
+footer{
+    background-color: #d8d8d8;
+}
+footer nav{
+    margin:0px auto;
+    width:640px;
+    padding:50px;
+}
