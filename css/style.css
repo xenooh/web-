@@ -422,6 +422,21 @@ span.new{
 }
 
 @media (min-width: 768px) {
+    /******quick***********/
+    .quick{
+        display: none;
+        position: fixed;
+        width: 200px;
+        height:500px;
+        border: 1px solid #ddd;
+        background-color: #ffff;
+        z-index:1000 ;
+        top: 50px;
+        right: 100px;
+    }
+    .quick.act {
+        display:block;
+        }
   .brand{
     font-size:2.4rem;
   }

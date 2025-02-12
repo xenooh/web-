@@ -140,8 +140,20 @@ $(document).ready(function(){
         사실은 col-md-는 하나의 클래스만 받지만 이 역시 하나의 배열로 들어옴.
      */
   });
+//퀵 메뉴 만드는 명령어들. 스크롤 찍어서 확인하고 
+  $(window).scroll(function(){
+    if($(this).scrollTop() > 900) {
+        const w = $('.container').width();
+        const left = $('#main>.container').offset().left;
+        const right = w +left + 40;
+        $('.quick').css('left', right+"px");
+        $(".quick").addClass('act');
+    }else{
+        $(".quick").removeClass('act');
+    }
+  });
 
- });
+ }); // query
  
  function slideUp(){
      $(".hittext-in").animate({

@@ -2,5 +2,6 @@
     "cSpell.words": [
         "hitbox",
         "hittext"
-    ]
+    ],
+    "liveServer.settings.CustomBrowser": "chrome"
 }
