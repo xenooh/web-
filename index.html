@@ -16,6 +16,7 @@
     <script src="libs/bootstrap/js/bootstrap.min.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/list.js"></script>
 </head>
 <body>
     <header class="pb-3">
@@ -270,31 +271,19 @@
               <a href="#" class="list-btn mx-3" data-list="col-md-4"></a>
               <a href="#" class="list-btn mx-3" data-list="col-md-12"></a>
            </div>
+           <!-- category 메뉴 top, outer, dress, bottom, set -->
+
+           <div class="category-nav">
+                <a href="#" class="btn category-btn" data-category="ALL">ALL</a>   
+                <a href="#" class="btn category-btn" data-category="TOP">TOP</a>
+                <a href="#" class="btn category-btn" data-category="OUTER">OUTER</a>
+                <a href="#" class="btn category-btn" data-category="BOTTOM">BOTTOM</a>
+                <a href="#" class="btn category-btn" data-category="DRESS">DRESS</a>
+                <a href="#" class="btn category-btn" data-category="SET">SET</a>
+           </div>
+
            <div class="row pt-4" id="row">
-               <div class="col-md-3 col-1">
-                  <img src="images/pd/001.jpg" alt="001">
-               </div>
-               <div class="col-md-3 col-1">
-                <img src="images/pd/002.jpg" alt="001">
-               </div>
-               <div class="col-md-3 col-1">
-                <img src="images/pd/003.jpg" alt="001">
-               </div>
-               <div class="col-md-3 col-1">
-                <img src="images/pd/004.jpg" alt="001">
-               </div>
-               <div class="col-md-3 col-1">
-                <img src="images/pd/005.jpg" alt="001">
-               </div>
-               <div class="col-md-3 col-1">
-                <img src="images/pd/006.jpg" alt="001">
-               </div>
-               <div class="col-md-3 col-1">
-                <img src="images/pd/007.jpg" alt="001">
-               </div>
-               <div class="col-md-3 col-1">
-                <img src="images/pd/008.jpg" alt="001">
-               </div>
+              <!-- json으로 받아옴 -->  
            </div>
         </div>
     </section>

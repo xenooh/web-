@@ -1,15 +1,179 @@
 [
- { 
-  "id" : 1,
-  "img" : "050.jpg", 
-  "title" : "[봄신상] 백 라벨 절개맨두맨",
-  "desc" : "와우, 배기팬츠의 끝판왕! 허리는 편안, 스타일은 끝장나! #배기핏의정석 #퀄리티 대박",
-  "delprice": "55,000원",
-  "price": "45,000원",
-  "event" : ["best", "today", "new"],
-  "review" : 50,
-  "category" : "top"
-
-
- }    
-]
+    { 
+       "id": 1, 
+       "img": "050.jpg",
+       "title": "[봄신상]백 라벨 절개맨투맨", 
+       "desc":"와우, 배기팬츠의 끝판왕! 허리는 편안, 스타일은 끝장나! #배기핏의정석 #퀄리티대박",
+       "delPrice": "55,000원",
+       "price": "45,000원",
+       "event": ["best", "today", "new"],
+       "review": 50,
+       "category": "TOP"
+    },
+    { 
+       "id": 2, 
+       "img": "051.jpg",
+       "title": "캐주얼 루즈핏 청자켓", 
+       "desc":"데일리로 입기 좋은 청자켓! 가볍고 스타일리시한 핏! #봄자켓 #간절기필수템",
+       "delPrice": "79,000원",
+       "price": "65,000원",
+       "event": ["best"],
+       "review": 30,
+       "category": "OUTER"
+    },
+    { 
+       "id": 3, 
+       "img": "052.jpg",
+       "title": "데일리 와이드 팬츠", 
+       "desc":"멋스러운 와이드핏! 어떤 상의와도 찰떡궁합! #와이드팬츠 #데일리룩",
+       "delPrice": "48,000원",
+       "price": "39,000원",
+       "event": [],
+       "review": 22,
+       "category": "BOTTOM"
+    },
+    { 
+       "id": 4, 
+       "img": "053.jpg",
+       "title": "라운드넥 베이직 니트", 
+       "desc":"부드러운 터치감, 어디에나 잘 어울리는 기본 니트! #가을니트 #레이어드필수",
+       "delPrice": "43,000원",
+       "price": "35,000원",
+       "event": ["today", "new"],
+       "review": 15,
+       "category": "TOP"
+    },
+    { 
+       "id": 5, 
+       "img": "054.jpg",
+       "title": "플라워 롱 원피스", 
+       "desc":"화사한 플라워 패턴으로 봄을 만끽하세요! #여리여리핏 #봄원피스",
+       "delPrice": "69,000원",
+       "price": "55,000원",
+       "event": ["new"],
+       "review": 42,
+       "category": "DRESS"
+    },
+    { 
+       "id": 6, 
+       "img": "055.jpg",
+       "title": "스트라이프 오버핏 셔츠", 
+       "desc":"내추럴한 핏감과 스타일을 한번에! #스트라이프셔츠 #꾸안꾸룩",
+       "delPrice": "59,000원",
+       "price": "48,000원",
+       "event": ["best", "today"],
+       "review": 28,
+       "category": "TOP"
+    },
+    { 
+       "id": 7, 
+       "img": "056.jpg",
+       "title": "소프트 코튼 팬츠", 
+       "desc":"신축성 좋은 면 팬츠로 하루 종일 편안함! #기본템 #데일리룩",
+       "delPrice": "52,000원",
+       "price": "42,000원",
+       "event": [],
+       "review": 19,
+       "category": "BOTTOM"
+    },
+    { 
+       "id": 8, 
+       "img": "057.jpg",
+       "title": "트렌디 트위드 자켓", 
+       "desc":"고급스러움이 느껴지는 트위드 자켓! #트위드룩 #세련된무드",
+       "delPrice": "98,000원",
+       "price": "79,000원",
+       "event": ["best", "new"],
+       "review": 33,
+       "category": "OUTER"
+    },
+    { 
+       "id": 9, 
+       "img": "058.jpg",
+       "title": "모던 슬림핏 셋업", 
+       "desc":"격식을 갖추면서도 세련된 무드! #슬림핏수트 #모던룩",
+       "delPrice": "120,000원",
+       "price": "99,000원",
+       "event": ["today"],
+       "review": 21,
+       "category": "SET"
+    },
+    { 
+       "id": 10, 
+       "img": "059.jpg",
+       "title": "크롭 후드 집업", 
+       "desc":"스타일과 실용성을 겸비한 크롭 후드! #트렌디룩 #스포티무드",
+       "delPrice": "66,000원",
+       "price": "52,000원",
+       "event": ["new"],
+       "review": 25,
+       "category": "TOP"
+    },
+    { 
+       "id": 11, 
+       "img": "060.jpg",
+       "title": "데님 하프 팬츠", 
+       "desc":"여름 필수템! 시원한 데님 하프 팬츠! #여름바지 #캐주얼룩",
+       "delPrice": "45,000원",
+       "price": "36,000원",
+       "event": [],
+       "review": 17,
+       "category": "BOTTOM"
+    },
+    { 
+       "id": 12, 
+       "img": "061.jpg",
+       "title": "린넨 롱 원피스", 
+       "desc":"자연스러운 핏과 가벼운 착용감! #썸머룩 #내추럴무드",
+       "delPrice": "85,000원",
+       "price": "69,000원",
+       "event": ["best"],
+       "review": 39,
+       "category": "DRESS"
+    },
+    { 
+       "id": 13, 
+       "img": "062.jpg",
+       "title": "오버핏 블레이저", 
+       "desc":"멋스러운 실루엣과 고급스러운 분위기! #클래식룩 #격식룩",
+       "delPrice": "110,000원",
+       "price": "89,000원",
+       "event": ["best", "today"],
+       "review": 27,
+       "category": "OUTER"
+    },
+    { 
+       "id": 14, 
+       "img": "063.jpg",
+       "title": "심플 트레이닝 세트", 
+       "desc":"편안함과 스타일을 동시에! #홈웨어 #운동복",
+       "delPrice": "72,000원",
+       "price": "58,000원",
+       "event": ["new"],
+       "review": 32,
+       "category": "SET"
+    },
+    { 
+       "id": 15, 
+       "img": "064.jpg",
+       "title": "베이직 반팔 티셔츠", 
+       "desc":"깔끔한 디자인과 편안한 착용감! #데일리템 #베이직룩",
+       "delPrice": "30,000원",
+       "price": "24,000원",
+       "event": ["today"],
+       "review": 14,
+       "category": "TOP"
+    },
+    { 
+       "id": 16, 
+       "img": "065.jpg",
+       "title": "슬림 스트레이트 팬츠", 
+       "desc":"다리라인이 살아나는 핏! #세련된무드 #오피스룩",
+       "delPrice": "56,000원",
+       "price": "45,000원",
+       "event": [],
+       "review": 26,
+       "category": "BOTTOM"
+    }
+ ]
+ 
